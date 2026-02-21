@@ -1,0 +1,11 @@
+# Ignore virtual environment
+drowsy/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore landmark model (large file)
+shape_predictor_68_face_landmarks.dat
